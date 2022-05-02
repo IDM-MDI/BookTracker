@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookTracker</string>
+    <string name="enterPassword">Введите пароль</string>
+    <string name="email">Email</string>
+    <string name="enterEmail">Введите email</string>
+    <string name="registration">Регистрация</string>
+    <string name="password">Пароль</string>
+    <string name="doYouHaveAccount">У вас уже есть аккаунт?</string>
+</resources>
