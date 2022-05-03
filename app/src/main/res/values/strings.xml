@@ -6,4 +6,7 @@
     <string name="registration">Регистрация</string>
     <string name="password">Пароль</string>
     <string name="doYouHaveAccount">У вас уже есть аккаунт?</string>
+    <string name="enter">Вход</string>
+    <string name="authorization">Авторизация</string>
+    <string name="doYouWantRegistr">Если у вас нет аккаунта</string>
 </resources>
